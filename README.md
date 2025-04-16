@@ -1,6 +1,6 @@
 # Анализ успеваемости студентов
 
-![Визуализация](https://github.com/story-teller-man/Student_Performance_Analysis/blob/main/notebooks/boxplot.png)  
+![Визуализация](https://github.com/story-teller-man/Student_Performance_Analysis/blob/main/images/boxplot.png)  
 *(График из анализа)*
 
 ## 🔍 Цель исследования  
